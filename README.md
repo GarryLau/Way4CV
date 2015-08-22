@@ -9,16 +9,16 @@
 ##资讯
 * [校招平台](http://www.nowcoder.com/activity/campus2016)
 * [VALSE](http://valse.mmcheng.net/paper/)
+* [顶会视频](http://techtalks.tv/)
 * [机器学习日报](http://ml.memect.com/)
 * [我爱计算机](http://www.52cs.org/)
 * [视觉机器人](http://www.cvrobot.net/)
 * [搜我们](http://sowm.cn/)
 * [国内外知名IT科技博客](http://blog.csdn.net/csh624366188/article/details/8681657)
 
-
 ##知名博客
 
-结构之法 算法之道 July:CSDN博客之星
+###结构之法 算法之道 July:CSDN博客之星
 * [程序员编程艺术](http://blog.csdn.net/v_JULY_v/article/details/6460494)
 * [教你透彻了解红黑树](http://blog.csdn.net/v_JULY_v/article/details/6105630)
 * [从头到尾彻底理解KMP](http://blog.csdn.net/v_july_v/article/details/7041827)
@@ -63,6 +63,10 @@ Vamei：[Python](http://www.cnblogs.com/vamei/tag/Python/)、[Linux](http://www.
 * [学习&使用技术的四种层次](http://zh.lucida.me/blog/levels-on-learning-and-using-technologies/)
 * [程序员英语学习指引](http://zh.lucida.me/blog/english-for-programmers/)
 
+###Focustc：
+* [算法之道精华](http://blog.csdn.net/caozhk/article/details/38454755)
+* [程序员面试宝典小结](http://blog.csdn.net/caozhk/article/details/38393491)
+
 Acjx:[CPP全面总结](http://www.cnblogs.com/jianxinzhou/p/3994248.html)
 
 [眼睛直观感受几种常用排序算法](http://blog.csdn.net/zhoubl668/article/details/7786213)
@@ -85,6 +89,12 @@ Acjx:[CPP全面总结](http://www.cnblogs.com/jianxinzhou/p/3994248.html)
 
 
 ##计算机视觉、机器学习、模式识别
+
+[黑夜给了我黑色的眼睛，我却用它研究 CV](http://36kr.com/p/209210.html)
+
+[科研不是比赛，而是一种对未知和完美的自我追求——跟邢波（Eric Xing）面对面聊科研](http://blog.sina.com.cn/s/blog_4caedc7a0102uwvu.html)
+
+[谈谈我对攻读计算机研究生的看法](http://bbs.tianya.cn/post-itinfo-7514-1.shtml)
 
 林达华 [博文精选](http://blog.sina.com.cn/s/blog_9548fdc501016z8e.html) 关注数学，解决learning问题 
 
@@ -111,6 +121,7 @@ Acjx:[CPP全面总结](http://www.cnblogs.com/jianxinzhou/p/3994248.html)
 
 [邹晓艺](http://blog.csdn.net/zouxy09/article/details/14222605) 华南理工硕士 [深度学习](http://blog.csdn.net/zouxy09/article/category/1387932)、[机器学习](http://blog.csdn.net/zouxy09/article/category/1333962)、[目标跟踪](http://blog.csdn.net/zouxy09/article/details/7893011)、[图像分割](http://blog.csdn.net/zouxy09/article/details/8532106)
 
+* [关于计算机视觉（随谈）](http://blog.csdn.net/zouxy09/article/details/38639349)
 * [神经网络训练中的Tricks之高效BP](http://blog.csdn.net/zouxy09/article/details/45288129)
 * [机器学习中的范数规则化](http://blog.csdn.net/zouxy09/article/details/24971995)
 
@@ -131,6 +142,8 @@ Acjx:[CPP全面总结](http://www.cnblogs.com/jianxinzhou/p/3994248.html)
 
 [计算机视觉小蜗牛](http://blog.csdn.net/ttransposition)[图像分割](http://blog.csdn.net/ttransposition/article/details/38514127)、[TLD](http://blog.csdn.net/ttransposition/article/details/43195097)、[DPM](http://blog.csdn.net/ttransposition/article/details/41806601)
 
+[在迷茫中寻找四叶草](http://blog.csdn.net/mulinb) [图像处理中的全局优化技术](http://blog.csdn.net/mulinb/article/details/8989205)
+
 [轩辕森](http://blog.csdn.net/xuanyuansen)[卷积神经网络](http://blog.csdn.net/xuanyuansen/article/details/41800721)
 
 [陈日伟](http://blog.csdn.net/chenriwei2) [C++](http://blog.csdn.net/chenriwei2/article/category/3170709)、[Python数据可视化](http://blog.csdn.net/chenriwei2/article/category/2454215)、[深度学习论文笔记](http://blog.csdn.net/chenriwei2/article/category/2339319)
@@ -141,7 +154,7 @@ Acjx:[CPP全面总结](http://www.cnblogs.com/jianxinzhou/p/3994248.html)
 
 [Danifree](http://www.cnblogs.com/daniel-D/) [机器学习中距离和相似性度量方法](http://www.cnblogs.com/daniel-D/p/3244718.html)
 
-[linger](http://blog.csdn.net/lingerlanlan)[机器学习](http://blog.csdn.net/linger2012liu/article/category/2035795)，[深度学习](http://blog.csdn.net/linger2012liu/article/category/2146595)，数据挖掘，推荐系统，分布式算法
+[linger](http://blog.csdn.net/lingerlanlan)[机器学习](http://blog.csdn.net/linger2012liu/article/category/2035795)，[深度学习](http://blog.csdn.net/linger2012liu/article/category/2146595) 数据挖掘 推荐系统 分布式算法
 
 [Ronny的技术成长之路](http://www.cnblogs.com/ronny/p/index.html)
 
@@ -149,6 +162,6 @@ Acjx:[CPP全面总结](http://www.cnblogs.com/jianxinzhou/p/3994248.html)
 
 [极度视界](http://blog.csdn.net/lifeitengup/article/)[Deep Learning](http://blog.csdn.net/LiFeitengup/article/category/1549309)、[机器学习](http://blog.csdn.net/LiFeitengup/article/category/1293585)
 
-[小胜爱捣鼓](http://blog.csdn.net/sheng_ai)：[LeetCode解题报告](http://blog.csdn.net/shengno1/article/category/2724887)、[DL文献阅读与感悟](http://blog.csdn.net/shengno1/article/category/1845549)
+[小胜爱捣鼓](http://blog.csdn.net/sheng_ai) [LeetCode解题报告](http://blog.csdn.net/shengno1/article/category/2724887)、[DL文献阅读与感悟](http://blog.csdn.net/shengno1/article/category/1845549)
 
-ikerpeng：[tracking](http://blog.csdn.net/u012192662/article/category/1884557)[python程序设计](http://blog.csdn.net/u012192662/article/category/1763665)
+[ikerpeng](http://blog.csdn.net/ikerpeng) [tracking](http://blog.csdn.net/u012192662/article/category/1884557) [python程序设计](http://blog.csdn.net/u012192662/article/category/1763665)
