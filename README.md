@@ -27,7 +27,8 @@
 Vamei：[Python](http://www.cnblogs.com/vamei/tag/Python/)、[Linux](http://www.cnblogs.com/vamei/tag/Linux/)、[网络](http://www.cnblogs.com/vamei/tag/%E7%BD%91%E7%BB%9C/)、[算法](http://www.cnblogs.com/vamei/tag/%E7%AE%97%E6%B3%95/)、[Java](http://www.cnblogs.com/vamei/tag/Java/)、[大数据](http://www.cnblogs.com/vamei/tag/%E5%A4%A7%E6%95%B0%E6%8D%AE/)
 讲的很好，深入浅出，例子都很形象
 
-###刘未鹏：南大前辈，就职于微软工程院
+###刘未鹏：南大硕士，就职于微软亚洲研究院创新工程组
+* [康托尔、哥德尔、图灵——永恒的金色对角线(rev#2)](http://mindhacks.cn/2006/10/15/cantor-godel-turing-an-eternal-golden-diagonal/)
 * [为什么算法这么难](http://mindhacks.cn/2011/07/10/the-importance-of-knowing-why-part3/)
 * [暗时间](http://mindhacks.cn/2009/12/20/dark-time/)
 * [我在南大的七年](http://mindhacks.cn/2009/05/17/seven-years-in-nju/)
@@ -39,6 +40,9 @@ Vamei：[Python](http://www.cnblogs.com/vamei/tag/Python/)、[Linux](http://www.
 * [数学之美番外篇：进化论中的概率论](http://mindhacks.cn/page/4/)
 * [逃出你的肖申克（五）：看不见的牢笼](http://mindhacks.cn/2012/06/04/escape-from-your-shawshank-part5-the-invisible-cage/)
 * [跟波利亚学解题](http://mindhacks.cn/2008/04/18/learning-from-polya/)
+
+###崔添翼 浙大本科 背包九讲作者
+* [MSRA实习纪](http://cuitianyi.com/blog/msra%E5%AE%9E%E4%B9%A0%E7%BA%AA%EF%BC%88%E9%9B%B6%EF%BC%89%EF%BC%9A%E7%AE%80%E5%8E%86%E7%AF%87/)
 
 ###王垠：川大->清华->Cornell
 * [王垠：对博士学位说永别](http://www.oschina.net/news/32707/say-goodbye-to-doctor)
@@ -95,6 +99,8 @@ Acjx:[CPP全面总结](http://www.cnblogs.com/jianxinzhou/p/3994248.html)
 [科研不是比赛，而是一种对未知和完美的自我追求——跟邢波（Eric Xing）面对面聊科研](http://blog.sina.com.cn/s/blog_4caedc7a0102uwvu.html)
 
 [谈谈我对攻读计算机研究生的看法](http://bbs.tianya.cn/post-itinfo-7514-1.shtml)
+
+[做学问的三种境界（王国维）和八种境界（梁漱溟）](http://www.cnblogs.com/ywl925/p/3388557.html)
 
 林达华 [博文精选](http://blog.sina.com.cn/s/blog_9548fdc501016z8e.html) 关注数学，解决learning问题 
 
