@@ -106,11 +106,25 @@ Acjx:[CPP全面总结](http://www.cnblogs.com/jianxinzhou/p/3994248.html)
 
 [王峰](http://blog.csdn.net/happynear) 电子科大博士 caffe
 
-[欧新宇](http://ouxinyu.github.io/index.html) 华科博士 caffe
 * [如何快糙好猛地在Windows下编译CAFFE并使用其matlab和python接口](http://blog.csdn.net/happynear/article/details/45372231)
 * [Windows下编译fast rcnn](http://blog.csdn.net/happynear/article/details/46822109)
 
-[张睿卿](http://blog.csdn.net/abcjennifer) 浙大硕士百度IDL、博客之星 [视觉](http://blog.csdn.net/abcjennifer/article/category/839329)、机器学习
+[欧新宇](http://ouxinyu.github.io/index.html) 华科博士 caffe
+* [Caffe + Ubuntu 15.04 + CUDA 7.0 新手安装配置指南](http://ouxinyu.github.io/Blogs/20140723001.html)
+* [Caffe配置指南 on Windows8.1+CUDA6.5+VS2013](http://ouxinyu.github.io/Blogs/20140719001.html)
+* [SPP-net + Windows 8.1 安装配置指南](http://ouxinyu.github.io/Blogs/20150413001.html)
+* [Cuda-convnet配置指南 on Windows8.1+CUDA6.5+VS2013](http://ouxinyu.github.io/Blogs/20140717001.html)
+
+[我爱智能](http://blog.csdn.net/on2way/article/details/48092449)
+* [机器学习系列](http://blog.csdn.net/on2way/article/category/2766847)
+* [解密SVM系列](http://blog.csdn.net/on2way/article/details/47729419)
+* [Python下opencv使用笔记](http://blog.csdn.net/on2way/article/category/5630773)
+* [图割算法原理及其matlab工具箱](http://blog.csdn.net/on2way/article/details/43276155)
+* [简单人脸识别系列](http://blog.csdn.net/on2way/article/category/2825053)
+* [简单虹膜识别系列](http://blog.csdn.net/on2way/article/category/2680771)
+* [智能优化算法系列](http://blog.csdn.net/on2way/article/details/40216517)
+
+[张睿卿](http://blog.csdn.net/abcjennifer) 浙大硕士百度IDL、CSDN博客之星 [视觉](http://blog.csdn.net/abcjennifer/article/category/839329)、机器学习
 [机器学习也感性：90后软妹纸的编程之路](http://www.csdn.net/article/2014-03-06/2818665-90s-coder-lady)
 
 [廖祥俐](http://www.cnblogs.com/moondark)华科硕士网易杭研院 [图割](http://liaoxl.github.io/blog/20131013/tu-ge/)
@@ -122,7 +136,7 @@ Acjx:[CPP全面总结](http://www.cnblogs.com/jianxinzhou/p/3994248.html)
 [查志强](http://blog.csdn.net/zhazhiqiang2010/article/list/1) 南理工硕士无锡加视诚智能科技有限公司 [SVM：从理论到OpenCV实践](http://blog.csdn.net/zhazhiqiang/article/details/20146243)[HOG：从理论到OpenCV实践](http://blog.csdn.net/zhazhiqiang/article/details/21047207)
 
 
-[赵永科](http://blog.csdn.net/kkk584520/article/category/2620891) 中科院硕士CSDN[Caffe源码导读](http://blog.csdn.net/kkk584520/article/category/2620629)
+[赵永科](http://blog.csdn.net/kkk584520/article/category/2620891) 中科院硕士 阿里[Caffe源码导读](http://blog.csdn.net/kkk584520/article/category/2620629)
 
 
 [邹晓艺](http://blog.csdn.net/zouxy09/article/details/14222605) 华南理工硕士 [深度学习](http://blog.csdn.net/zouxy09/article/category/1387932)、[机器学习](http://blog.csdn.net/zouxy09/article/category/1333962)、[目标跟踪](http://blog.csdn.net/zouxy09/article/details/7893011)、[图像分割](http://blog.csdn.net/zouxy09/article/details/8532106)
