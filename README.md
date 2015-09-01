@@ -124,6 +124,13 @@ Acjx:[CPP全面总结](http://www.cnblogs.com/jianxinzhou/p/3994248.html)
 * [简单虹膜识别系列](http://blog.csdn.net/on2way/article/category/2680771)
 * [智能优化算法系列](http://blog.csdn.net/on2way/article/details/40216517)
 
+[仙守](http://www.cnblogs.com/shouhuxianjian/) 最美的不是下雨天,是曾与你躲过雨的屋檐!
+
+* [Hinton的CSC321课程](http://www.cnblogs.com/shouhuxianjian/p/4529209.html)
+* [Theano](http://www.cnblogs.com/shouhuxianjian/p/4564630.html)
+* [python](http://www.cnblogs.com/shouhuxianjian/p/4529165.html)
+* [opencv](http://www.cnblogs.com/shouhuxianjian/p/4529193.html)
+
 [张睿卿](http://blog.csdn.net/abcjennifer) 浙大硕士百度IDL、CSDN博客之星 [视觉](http://blog.csdn.net/abcjennifer/article/category/839329)、机器学习
 [机器学习也感性：90后软妹纸的编程之路](http://www.csdn.net/article/2014-03-06/2818665-90s-coder-lady)
 
