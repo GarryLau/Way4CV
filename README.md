@@ -49,6 +49,9 @@ Vamei：[Python](http://www.cnblogs.com/vamei/tag/Python/)、[Linux](http://www.
 * [清华博士王垠的退学申请](http://zhan.renren.com/xiaohexie?gid=3602888498001986897&from=post&checked=true#nogo)
 * [怎样成为一个天才](http://www.yinwang.org/blog-cn/2014/08/11/genius/)
 * [王垠的过去和现状](http://www.cnblogs.com/cbscan/articles/3252872.html)
+* [学术腐败是历史的必然](http://www.yinwang.org/blog-cn/2014/03/24/academic-corruption/)
+* [数学和编程](http://www.yinwang.org/blog-cn/2015/07/04/math/)
+* [牛校综合征](http://www.yinwang.org/blog-cn/2015/01/05/top-university-syndrome/)
 
 ###阮一峰
 *  [理解计算机 ](http://www.ruanyifeng.com/blog/computer/)
