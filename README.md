@@ -18,12 +18,6 @@
 
 ##知名博客
 
-###结构之法 算法之道 July:CSDN博客之星
-* [程序员编程艺术](http://blog.csdn.net/v_JULY_v/article/details/6460494)
-* [教你透彻了解红黑树](http://blog.csdn.net/v_JULY_v/article/details/6105630)
-* [从头到尾彻底理解KMP](http://blog.csdn.net/v_july_v/article/details/7041827)
-* [支持向量机通俗导论（理解SVM的三层境界）](http://blog.csdn.net/v_july_v/article/details/7624837)
-
 Vamei：[Python](http://www.cnblogs.com/vamei/tag/Python/)、[Linux](http://www.cnblogs.com/vamei/tag/Linux/)、[网络](http://www.cnblogs.com/vamei/tag/%E7%BD%91%E7%BB%9C/)、[算法](http://www.cnblogs.com/vamei/tag/%E7%AE%97%E6%B3%95/)、[Java](http://www.cnblogs.com/vamei/tag/Java/)、[大数据](http://www.cnblogs.com/vamei/tag/%E5%A4%A7%E6%95%B0%E6%8D%AE/)
 讲的很好，深入浅出，例子都很形象
 
